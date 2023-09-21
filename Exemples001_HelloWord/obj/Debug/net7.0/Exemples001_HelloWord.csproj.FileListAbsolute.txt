@@ -1,0 +1,15 @@
+D:\Учёба\IT\C#\Exemples\Exemples001_HelloWord\bin\Debug\net7.0\Exemples001_HelloWord.exe
+D:\Учёба\IT\C#\Exemples\Exemples001_HelloWord\bin\Debug\net7.0\Exemples001_HelloWord.deps.json
+D:\Учёба\IT\C#\Exemples\Exemples001_HelloWord\bin\Debug\net7.0\Exemples001_HelloWord.runtimeconfig.json
+D:\Учёба\IT\C#\Exemples\Exemples001_HelloWord\bin\Debug\net7.0\Exemples001_HelloWord.dll
+D:\Учёба\IT\C#\Exemples\Exemples001_HelloWord\bin\Debug\net7.0\Exemples001_HelloWord.pdb
+D:\Учёба\IT\C#\Exemples\Exemples001_HelloWord\obj\Debug\net7.0\Exemples001_HelloWord.csproj.AssemblyReference.cache
+D:\Учёба\IT\C#\Exemples\Exemples001_HelloWord\obj\Debug\net7.0\Exemples001_HelloWord.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учёба\IT\C#\Exemples\Exemples001_HelloWord\obj\Debug\net7.0\Exemples001_HelloWord.AssemblyInfoInputs.cache
+D:\Учёба\IT\C#\Exemples\Exemples001_HelloWord\obj\Debug\net7.0\Exemples001_HelloWord.AssemblyInfo.cs
+D:\Учёба\IT\C#\Exemples\Exemples001_HelloWord\obj\Debug\net7.0\Exemples001_HelloWord.csproj.CoreCompileInputs.cache
+D:\Учёба\IT\C#\Exemples\Exemples001_HelloWord\obj\Debug\net7.0\Exemples001_HelloWord.dll
+D:\Учёба\IT\C#\Exemples\Exemples001_HelloWord\obj\Debug\net7.0\refint\Exemples001_HelloWord.dll
+D:\Учёба\IT\C#\Exemples\Exemples001_HelloWord\obj\Debug\net7.0\Exemples001_HelloWord.pdb
+D:\Учёба\IT\C#\Exemples\Exemples001_HelloWord\obj\Debug\net7.0\Exemples001_HelloWord.genruntimeconfig.cache
+D:\Учёба\IT\C#\Exemples\Exemples001_HelloWord\obj\Debug\net7.0\ref\Exemples001_HelloWord.dll
